@@ -10,22 +10,24 @@ Certains scripts fonctionnent en ligne de commande, d'autres fonctionnent avec u
 
 ### Avec la ligne de commande
 
-Ouvrez un terminal puis rendez-vous dans le dossier du projet avec la commande `cd`.
+Ouvrez un terminal puis rendez-vous dans le dossier `code` du projet avec la commande `cd`.
 
 Tapez :
 
     cd epsi-lille-php-base-2016-2017
+    cd code
     php variable-01.php
 
 ### Avec un serveur web
 
 Vous pouvez démarrer un serveur web en ligne de commande avec php.
 
-Ouvrez un terminal puis rendez-vous dans le dossier du projet avec la commande `cd`.
+Ouvrez un terminal puis rendez-vous dans le dossier `code` du projet avec la commande `cd`.
 
 Tapez :
 
     cd epsi-lille-php-base-2016-2017
+    cd code
     php -S localhost:8000
 
 Vous pourrez alors afficher les scripts dans votre navigateurs.
