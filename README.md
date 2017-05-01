@@ -15,7 +15,6 @@ Ouvrez un terminal puis rendez-vous dans le dossier `code` du projet avec la com
 Tapez :
 
     cd epsi-lille-php-base-2016-2017
-    cd code
     php variable-01.php
 
 ### Avec un serveur web
@@ -27,7 +26,6 @@ Ouvrez un terminal puis rendez-vous dans le dossier `code` du projet avec la com
 Tapez :
 
     cd epsi-lille-php-base-2016-2017
-    cd code
     php -S localhost:8000
 
 Vous pourrez alors afficher les scripts dans votre navigateurs.
